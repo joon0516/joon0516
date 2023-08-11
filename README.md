@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Next.js**
 
-- 👨‍💻 All of my projects are available at [www.joonhyukko.com](www.joonhyukko.com)
+- 👨‍💻 All of my projects are available at [www.joonhyukko.com](https://www.joonhyukko.com)
 
 - 📫 How to reach me **tah3af@virginia.edu**
 
