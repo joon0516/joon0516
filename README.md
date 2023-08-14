@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HoosNotes](https://github.com/joon0516/HoosNotes)
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 I’m currently learning **AWS and Next.js**
 
 - 👨‍💻 All of my projects are available at [www.joonhyukko.com](https://www.joonhyukko.com)
 
